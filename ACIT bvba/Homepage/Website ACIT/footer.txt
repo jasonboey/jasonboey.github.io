@@ -1,0 +1,40 @@
+HTML-code
+<footer>
+<a class="link" href="https://www.facebook.com/AcIthg/" target="_blank";><img id="Facebook"src="Acit contact/mijne/fb.png"></a>
+<p id ="location">Patersstraat 28, 2300 Turnhout</p>
+<p id="email">e-mail: acitbvba@gmail.com</p>
+
+</footer>
+
+CSS-code
+#email
+{
+	float:right;
+	width:33%;
+	text-align:right;
+	margin-right:90px;
+	
+}
+#location
+{
+	float:left;
+	width:33%;
+	text-align:left;
+	padding-left:60px;	
+}
+footer
+{
+	background-color: rgb(51, 102, 204);
+	width:100%;
+	
+	text-align:center;
+}
+.link
+footer a{
+float:left;
+width:33%;
+}
+#Facebook
+{
+	width:50px;
+}

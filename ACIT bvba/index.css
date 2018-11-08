@@ -1,0 +1,99 @@
+
+#logo
+{
+	display: block;
+    margin-left: 1000px;
+    margin-right: auto;
+	width:250px;
+	height:auto;
+}
+body
+{
+background-color:white;
+color:rgb(00,00,77);
+font-family:tahoma;
+    text-align:center;
+
+}
+#title
+{
+	text-align:left;
+	font-size:3em;
+	display:block;
+	float:left;
+	width:70%;
+	color:rgb(00,00,77);
+	padding-left:120px;
+	font-variant:small-caps;
+}
+.center
+{
+	text-align:center;
+}
+.onlythisone {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(00, 00, 77);
+	
+}
+
+header{
+	background-color: rgb(51, 102, 204);
+}
+
+.only {
+    float: left;
+    width:16%;
+    text-align:center;
+}
+
+
+.only a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#Facebook
+{
+	width:50px;
+}
+#email
+{
+	float:right;
+	width:33%;
+	text-align:right;
+	margin-right:90px;
+	
+}
+#location
+{
+	float:left;
+	width:33%;
+	text-align:left;
+	padding-left:60px;	
+}
+footer
+{
+	background-color: rgb(51, 102, 204);
+	width:100%;
+	
+	text-align:center;
+}
+.link
+footer a{
+float:left;
+width:33%;
+}
+h1{text-align: center;}
+zekerda{margin-left: 500px}
+#beweging
+{
+	font-size:2em;
+}
+
+

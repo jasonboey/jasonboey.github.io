@@ -1,0 +1,81 @@
+HTML-code
+<header>
+	<h1 id="title">ACIT bvba</h1>
+	<img id="logo" src="Fotos/logo.png"> 
+
+	<ul class="onlythisone">
+
+	  <li class="only"><a href="index.html">Homepage    </a></li>
+	  <li class="only"><a href="file:///C:/Users/Tezz/Documents/Schoolwerk/Informatica/HTML/website%20Acit%20(1)/website%20Acit/wiezijnwe.html">Wie zijn we </a></li>
+	  <li class ="only"><a href="WatdoenWe.html"> Wat doen we </a<</li>
+	  <li class="only"><a href="file:///C:/Users/Tezz/Documents/Schoolwerk/Informatica/HTML/Webpagina/Webpagina/Huisstijldagboek.html">Huisstijldagboek  </a></li>
+	  <li class="only"><a href="vacature.html">Vacature </a></li>
+	  <li class="only"><a href="file:///C:/Users/Tezz/Documents/Schoolwerk/Informatica/HTML/Acit%20contact/mijne/Contactpagina.html">Contactpagina</a></li>
+
+	</ul>
+</header>
+CSS-code
+#logo
+{
+	display: block;
+    margin-left: 1000px;
+    margin-right: auto;
+	width:250px;
+	height:auto;
+}
+body
+{
+background-color:white;
+color:rgb(00,00,77);
+font-family:tahoma;
+
+}
+#title
+{
+	text-align:left;
+	font-size:3em;
+	display:block;
+	float:left;
+	width:70%;
+	color:rgb(00,00,77);
+	padding-left:120px;
+	font-variant:small-caps;
+}
+.center
+{
+	text-align:center;
+}
+.onlythisone {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(00, 00, 77);
+	
+}
+
+header{
+	background-color: rgb(51, 102, 204);
+}
+footer
+{
+	background-color: rgb(51, 102, 204);
+}
+
+.only {
+    float: left;
+}
+
+
+.only a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left:100px;
+	
+}
+#Facebook
+{
+	width:30px;
